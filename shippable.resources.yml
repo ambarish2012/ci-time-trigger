@@ -1,0 +1,5 @@
+resources:
+  - name: time_trigger
+    type: time
+    seed:
+      interval: "*/2 * * * *"

@@ -1,0 +1,5 @@
+jobs:
+  - name: ci-time-trigger_runCI
+    type: runCI
+    steps:
+      - IN: time_trigger
